@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bbSHMgdyWx08ufEfWdg6t5IA8hkKD//qG3B4w7aoUghwtaE/3A+Lacpoyxdg3QDdI/mMhg5ZT2I5EuUwgXxPNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Documents\\Estudos\\.Net\\GraphQL\\PrimeiraAplicacao\\GraphQL\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
