@@ -121,6 +121,7 @@
   </li>
 </ul>
 
-![image](https://github.com/martineli17/.net-graphql-initconfig/assets/50757499/bf99fa7a-f6f9-468f-9b1b-79ff9dc67054)
+![image](https://github.com/martineli17/.net-graphql-initconfig/assets/50757499/a86d91c4-0c1d-4956-af15-bd1a1439c65a)
+
 
 
