@@ -15,7 +15,7 @@ export const ClientPayments: React.FC<ClientPaymentsProps> = (props) => {
         <Modal>
             <ModalHeader>
                 <h3 className="text-xl font-semibold text-gray-400 ">
-                    Detalhes
+                    Pagamentos
                 </h3>
             </ModalHeader>
             <ModalContent >
